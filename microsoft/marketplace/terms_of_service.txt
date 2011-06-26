@@ -1,0 +1,501 @@
+Last updated: December 21, 2010
+
+ 
+
+Marketplace Terms of Use
+
+ 
+
+Thank you for choosing Microsoft!
+
+Please read this agreement carefully.  It’s a contract that governs your use of any Marketplace service or software that directly display or link to this agreement, including services or software that allow you to stream, download, view and use certain digital content, such as music, video, games, mobile applications and other content that Microsoft may make available from time to time as part of the Marketplace service and any software or sites, including updates, which you use while this contract is in force (the “service”).  By creating an account or otherwise accepting the Marketplace Terms of Use, you confirm you agree to these terms.  If you don’t agree, don’t use the service. 
+
+ 
+
+1. What the contract covers
+
+The Terms of Use is a contract between you and Microsoft Corporation, One Microsoft Way, Redmond, Washington, USA, or, based on where you live, one of the Microsoft Corporation affiliates identified in Section 22. Microsoft may be referred to as "we," "us" or "our". 
+
+All references to “Marketplace enabled devices” include personal computers, Xbox consoles, portable devices or any other hardware from which Microsoft makes the service available to you. “Portable devices” include Zune players, Windows Phones 7.x devices and any other compatible devices from which Microsoft may make the services available to you.
+
+Please note that we don’t provide warranties for the service. This contract also limits our liability to you. See sections [19] and [20] for details. 
+
+ 
+
+2. Using the service
+
+As soon as you have successfully created an account, the service will be available to you. You agree to use the service only in the country associated with your account (“territory”) and you acknowledge that you may be unable to use the service outside the territory.   No withdrawal right or other “cooling off” period applies to your use of the service and you waive any applicable “cooling off” period, except if the law in your territory requires a “cooling off” period despite your waiver. 
+
+When using the service, you must comply with the terms in this contract and obey all applicable laws and the Microsoft Anti-spam Policy (http://go.microsoft.com/fwlink/?LinkId=117951). You must also obey the Code of Conduct available at http://www.zune.net/legal/codeOfConduct.htm. 
+
+You must not use the service in a way that infringes rights of third parties, including, but not limited to, willfully harming a person or entity.  You also must not damage, disable, overburden, or impair the service (or the network(s) connected to the service); resell or redistribute the service or any part of it; use any unauthorized means to modify, reroute or gain access to, or attempt to modify, reroute or gain access to, the service; or use any automated process or service (such as a bot, a spider, periodic caching of information stored by Microsoft, or meta-searching) to access or use the service.
+
+ 
+
+3. Available Content May Vary
+
+The service may consist of specific content, features and functions that vary depending on your territory and the type of Marketplace enabled device from which you access the services.  For example, the services may include access to music, video, games, mobile applications that are available in certain countries and for certain Marketplace enabled devices only. 
+
+We may change, delete, modify or discontinue, temporarily or permanently, the service, any functions, features or content of the service, at any time and for any reason, in any country, in our sole discretion.
+
+Due to contractual or other limitations, some content available in the service may from time to time become unavailable. Consequently, you may not be able to re-download or re-stream certain content that you have purchased.  For music and video content, to the extent we receive information from the content owners indicating the date their content will be unavailable, we will endeavor to share this information with you.
+
+Your ability to access the service and obtain certain content is restricted to your territory. If you change your account to a different territory, you may not be able to re-download or re-stream content that was available to you in your previous territory. In your new territory, you may be required to purchase and pay for content even if you have already paid for that content in the previous territory.
+
+ 
+
+4. Data Access Plan for Internet Access May Be Required
+
+In order to access the service by means of a cellular data connection on a Portable device (such as a Windows Phone), you may need a data access plan from your wireless carrier. You may incur charges related to internet access and data transfer for such use.  In order to access the service from Marketplace enabled devices via a WiFi or internet connection, you will need a compatible device, software, browser and internet access.   Microsoft may change the requirements for accessing the service from time to time and you are responsible for adhering to the requirements.  If you don’t agree with such requirements, you must cancel and stop using the service.
+
+ 
+
+5.  Your service account and associated accounts
+
+Only you may use your service account. You must keep your passwords confidential and not authorize any third party to access or use the service on your behalf unless we provide an approved mechanism for such access.  You must tell us right away if you suspect misuse of your accounts or any security breach in the service.  For some parts of the service, you may be able to set up additional accounts that are dependent on your account (“associated accounts”). You’re responsible for all activity that takes place with your service account and any associated accounts that you set up (and that is caused by your negligent behavior or omission).
+
+By opening an account and accepting this contract, you represent and warrant that the information you provided to Microsoft is truthful and accurate and that you are 18 years old or over or have reached the “age of majority” in your territory.  If you are under 18 (or have not reached the “age of majority” in your territory), your parent or legal guardian must set up an account on your behalf and accept this contract.  The service is not intended for use by children under 13, except together with a parent or other adult supervision.  
+
+If you allow or enable a minor to use a service account or an associated account, you represent that you are the parent or legal guardian of such minor.  You further acknowledge that you are aware that some features and some content available through the service may contain or expose users to material that is unsuitable for minors, and you agree to supervise usage by minors whom you permit to use the service.  Microsoft may offer Family Settings available from certain Marketplace enabled devices, which allow you to restrict purchases and restrict access to explicit or mature content in the service.   You may view or revise your Family Settings by signing into the service at www.zune.net/familysettings.  You acknowledge that the use of Family Settings is not a substitute for your personal supervision of use by your minor children, minors for whom you are the legal guardian or any other minors you allow using the service. You remain responsible for any material for which an associated account gains or is denied access to as a result of your use, or failure to use, the Family Settings.   Family Settings you selected on one Marketplace enabled device may not apply to another Marketplace enabled device(s).
+
+If you use an associated account, the holder of the service account has full control over your associated account. This control includes the right to end the service, close or alter your associated account at any time, receive notices from us, and in some cases, to request and receive usage information related to your associated account.  Profile, usage and activity data related to your associated account is collected and delivered to the holder of the service account and Microsoft.   
+
+ 
+
+6. Your Billing Account and Payments to Microsoft
+
+Creation and Use of a Billing Account. This section applies in all situations in which you pay us.  When you create a billing account, you enter your payment method.  You must be authorized to use the payment method.  You authorize us to charge you for all purchases you make in the service using your payment method and for any paid feature of the service for which you choose to sign-up or use while this contract is in force. We may charge (a) in advance; (b) at the time of purchase; (c) shortly after purchase; or (d) on a recurring basis for Zune Pass or other subscription services as specified in this agreement or at the time of purchase.  ALL PURCHASES FROM THE SERVICE, INCLUDING ZUNE PASS SUBSCRIPTION, ARE SUBJECT TO THE CONTENT USAGE RULES SET FORTH IN SECTION 10 BELOW.
+
+YOU ARE RESPONSIBLE FOR THE TIMELY PAYMENT OF ALL FEES AND FOR PROVIDING MICROSOFT WITH VALID PAYMENT METHOD INFORMATION FOR PAYMENT OF ALL FEES.   Your payment method may require us to send your charges to a third party, such as your wireless carrier or a payment processor. 
+
+You must keep all information in your billing account current, including your billing address and the expiration date of your credit card. You can access your billing account as https://billing.microsoft.com, where you can make changes to your billing account.  You may change your payment method at any time.  
+
+Taxes, Prices and Price Increases.The price for the content available on the service excludes all taxes, unless stated otherwise. You are responsible for any taxes that you are obligated to pay or that we may collect from you. The price also excludes any other applicable charges and you are responsible for such charges, such as phone charges. Currency exchange settlements are based on your agreement with your payment method provider. We may change the price of any content or subscription offerings made available through the service from time to time. If you do not agree to these changes, then you must cancel and stop using the service before the changes take place. If you cancel, then your service ends at the end of your current service term or, if we bill your account on a periodic basis, at the end of the applicable period in which you cancelled.
+
+Refund Policies.Unless otherwise provided by local law of your territory or stated otherwise at the time of purchase, all charges are non-refundable.  If you are entitled to a refund, we will give you a credit in the form of Points or a credit to the account associated with your payment method.
+
+Online Statement; Errors.We will provide you with an online billing statement. This is the only billing statement that we provide. IT IS YOUR RESPONSIBILITY TO PRINT OR SAVE A COPY OF EACH ONLINE STATEMENT AND TO RETAIN COPIES FOR YOUR RECORDS. Go to https://billing.microsoft.com to view, print or request a paper copy of this statement. If you request a paper copy, we may charge you a retrieval fee. We will only provide paper copies for the past 120 days. If we make an error on your bill, we will correct it promptly after you tell us and we investigate the charge, provided that you tell us within 120 days after an error first appears on your bill.  You release us from all liability and claims of loss resulting from any error that you do not report to us within 120 days after the error first appears on your online statement. If you do not tell us within this time, we will not be required to correct the error. 
+
+Zune Pass subscription.  If available in your territory, you can choose to sign up for a Zune Pass subscription, which allows you to stream or download from the service in your territory as many songs as you want on a subscription basis for a flat monthly fee.  You can pay for a Zune Pass using a prepaid subscription card or your credit card.  As long as you continue to pay your subscription fee for the corresponding period, you will have access to all music content that is made available from the service in your territory on a subscription basis.  We may bill you for more than one of your prior billing periods together, for amounts that have not been paid or processed.  If we informed you that the service will be automatically renewed, we may automatically renew your service and charge you for any renewal term. If you do not pay your subscription fee or your Zune Pass subscription terminates for any other reason, you will no longer have access to any content you downloaded under your Zune Pass subscription.
+
+If you have a Zune Pass subscription, we will notify you of any price change at least 30 days in advance. If you do not agree to a price change, then you must cancel and stop using the Zune Pass subscription.
+
+Cancelling the Zune Pass.You may cancel your Zune Pass at any time and for any reason at http://www.zune.net (After signing in, click on My Account, go to Manage Zune Pass and select Cancel Subscription.). Your subscription would remain active until the end of the subscription period. Cancellation of the service by you will not alter your obligation to pay all charges made to your billing account.
+
+Late Payments.Except to the extent prohibited by law, we may assess a late charge if you do not pay on time. You must pay these late charges when we bill you for them. The late charge will be the lesser of 1% of the unpaid amount each month or the maximum rate that is permitted by law. We may use a third party to collect past due amounts. You must pay for all reasonable costs we incur to collect any past due amounts. These costs may include reasonable attorneys' fees and other legal fees and costs.
+
+Trial Period Offers.  You may have received a limited time of free service or some other trial period offer. Unless we inform you otherwise, if you are participating in any trial period offer, you must cancel the service by the end of the period to avoid incurring charges.  If you do not cancel your service and we have informed you that the service will automatically be converted into a paid subscription at the end of the trial period, then you authorize us to charge your payment method for the service.
+
+Charges for Windows Phone Applications. Even if you do not pay for a Windows Phone application, you may still incur other charges incidental to your downloading or using the Windows Phone application; for example, charges for internet access, data transmission, mobile text messaging or other usage charges for services accessed through a Windows Phone application.
+
+ 
+
+7.  Microsoft Points
+
+If you obtain Microsoft Points, you have obtained a limited license to a digital product. Points have no monetary value. You may not obtain any money in exchange for Points and no refunds are available for unused Points. Points may only be available for purchase in a few denominations. You’re responsible for any taxes that may result from your participation in the Points service. Points aren’t your personal property. You may only use Points to obtain the specific online services or digital products that we offer for Points redemption. The scope, variety and type of offers may change at any time and may be restricted based on your country of residence. We have no obligation to continue making Points redemption offers available.
+
+You can purchase Points, or certain services may give you Points (“promotion Points”). You can earn promotion Points only for actions you complete.  Promotion Points may expire at any time, as provided in the promotion. Your Points balance will be available on the Billing and Account Management website (https://billing.microsoft.com). We may cancel, suspend or otherwise limit your access to your Points balance if we suspect fraudulent, abusive or unlawful activity on your Points balance. Once we delete Points from a balance, we won’t reinstate them, except at our discretion. When we cancel, suspend or otherwise limit access to your Points balance, your right to use your Points balance immediately ceases. We will use reasonable efforts to investigate Points balances subject to access limitations and make a decision promptly. We may limit your use of the Points service, including applying limits to: the number of Points you may have credited to your Points balance at one time, the number of Points you may redeem within a given time period, and the number of promotion Points you may obtain in a single event.
+
+If we post Points to your balance for activity that’s subsequently voided or canceled or that involves a returned item, we will remove those Points from your balance. You must ensure that we properly post your Points to your Points balance. If you believe that your balance doesn't reflect Points that you've acquired validly, you need to contact us within 12 months of the date you claim to have acquired the Points; otherwise, we won't consider posting them to your account.  We may require reasonable documentation to support your claim.
+
+ 
+
+8.  Marketplace
+
+Marketplace is the online store for the service.  All content made available through the Marketplace is licensed, not sold, to you.  For portable devices (such as a Windows Phone), you may need to install Zune PC software on your personal computer in order to receive software updates for such portable devices and in order to obtain certain content in the Marketplace. The most current version of the Zune PC software is available for download at http://www.zune.net.  If you don’t install updates to the Zune PC software that we make available to you, we reserve the right to not support your access to Marketplace.  You can browse the Marketplace without signing in from your Marketplace enabled device, but if you want to obtain, download or stream certain content, you must sign in using your credentials.  Other service features, including the Zune Social and Zune forums, may also require you to sign in to your service account.
+
+By using the Marketplace and other parts of the service, you may encounter content that may be deemed offensive, indecent or objectionable, which content may or may not be identified as having explicit or mature language. You agree to use the service at your own risk and that we are not responsible or liable for content that may be found to be offensive, indecent or objectionable.  Content types displayed in the Marketplace (including genres, sub-genres and the like) are descriptions provided for convenience, and we do not guarantee their accuracy.
+
+ 
+
+9. Windows Phone Applications
+
+The service available in your territory may enable you to browse, search, download and purchase applications for your Windows ® Phone running a version 7.x of the Windows Phone operating system (“Windows Phone applications”).  
+
+For each application, we will indicate the name of the application provider licensing the application to you, which may be Microsoft (“Microsoft applications”) or a third party application provider (“Distributed applications”). You agree that your use of applications is governed by the Standard Application License Terms at the end of these Terms of Use, unless the provider of a Distributed application provides you with separate terms, in which case you agree those terms shall apply.  
+
+We are not a party to the license between you and the application provider of a Distributed application.  We act as an agent of the application provider in providing the Distributed application to you.  Furthermore, we are not responsible for:
+
+·          the Distributed application;
+
+·          your use of the Distributed application;
+
+·          the content of the Distributed application;
+
+·          customer support for any Distributed application or
+
+·          any warranties or claims relating to the Distributed application.
+
+
+Removing or Disabling Windows Phone Applications.We may disable the Windows Phone applications contained in your service account for any reason and we may remove any Windows Phone application and/or disable copies of any Windows Phone application on your Marketplace enabled device in order to protect the service, application providers, wireless carriers over whose network you access the service or any other affected or potentially affected parties.
+
+
+Privacy Policy for Windows Phone Applications. The privacy policies that apply to Distributed applications will be provided to you with such Distributed applications, and Microsoft’s Terms of Use and privacy policies will not apply to your use of a Distributed application.
+
+ 
+
+10. Content Usage Rules for Music and Video.   
+
+All music and video content you purchase, rent or acquire on a subscription basis from the service in your territory (“music and video content”) is subject to this contract and any other applicable terms and conditions, including limitations imposed by copyright owners and the use of digital rights management (DRM) technology, where used.  Any license you obtain through the service may be subject to termination upon the termination or cancellation of the service account.
+
+Music and Video Content may be used for personal, non-commercial use only, and may not be used as a musical “ringer” or ringtone in connection with a mobile phone without the prior written consent of the copyright owner. 
+
+Any reproduction, redistribution, transmission, display, sale, broadcast, public performance, rental or lending, modification, adaptation, sub-license or other use of the content provided through the service, except as otherwise expressly permitted in this contract or by copyright law, is expressly prohibited without the prior written consent of the copyright owner.
+
+You agree that you will not attempt to, or encourage or assist any other person to, circumvent, remove or modify any software required for use of the Service or any copyright management information contained in the content.
+
+Any burning or exporting capabilities (if applicable) are solely an accommodation to you and do not constitute a grant or waiver (or other limitation or implication) of any rights of the copyright owners of any audio or video content, sound recording, underlying musical composition or artwork embodied in any purchased content.
+
+We are not responsible for any loss of content you have downloaded, including any loss due to a computer or hard drive crash.
+
+Usage Rules for Sound Recordings
+
+You are authorized to use the content that you purchased from the service in your territory on up to five (5) personal computers and as many portable devices as are reasonably necessary for your personal and non-commercial use.  You can download the content only once in any such devices.
+
+For DRM-protected sound recordings, you are entitled to burn purchased content, and playlists containing purchased content, to CD solely for personal, non-commercial use.  There is no limit to the number of times you can burn an individual song; however, you may only burn the exact same playlist a maximum of seven (7) times. 
+
+For DRM-free sound recordings, you are authorized to make only such copies as are reasonably necessary for your personal and non-commercial use, and any other copying in excess of that is expressly prohibited and may constitute copyright infringement.  There are no burn limits on DRM-free content, but all copies must be for personal, non-commercial use.  
+
+Usage Rules for Music Videos
+
+You are authorized to use the content you purchased from the service in your territory on up to five (5) personal computers or Xbox 360 consoles, or any combination between personal computers and Xbox 360 consoles as long as the total number does not exceed five (5) (e.g., 3 personal computers and 2 Xbox consoles), and as many portable devices as are reasonably necessary for your personal and non-commercial use. If you purchase content from the service on a personal computer as part of a promotional bundle, you may not be able to re-download it to Xbox 360 consoles.
+
+Usage Rules for Video Content (Film or Television)
+
+a. General Terms. 
+
+We may offer video content in your territory (“video content”) for download, streaming or both, on: (i) a limited time-based video-on-demand basis (“VOD content”), or (ii) a retained license basis (“retained rights content”).  You may only stream video content to the extent this feature is authorized in the service.    Resolution of video content purchased in high definition may vary depending on the content you chose, the device or hardware that you use and the bandwidth of your internet connection. 
+
+To the extent that the terms contained in any other sections of this contract conflict with the terms of this Section 10, the terms of this Section 10 control with respect to any license you obtain for video content. 
+
+b. VOD Content.  
+
+Effective on payment of the required fees, we grant you a personal, non-exclusive, non-transferable, limited right and license, subject to the terms of this contract, to view and privately display in your territory for personal, non-commercial purposes only, either via an Xbox 360 console, a personal computer or a portable device, VOD content you obtain via the service.  The initial license to each item of VOD content is limited in its term and duration to fourteen (14) days from the date and time of your order or twenty-four (24) hours from the start of its initial display and viewing, whichever occurs first, unless otherwise specified as being limited to different term at the time of purchase (the “VOD viewing time”).  VOD content can only be displayed and viewed on the device you initially downloaded or streamed to; however, you may display and view VOD content downloaded to your personal computer on one portable device.  Once you chose to display and view VOD content on your portable device downloaded from your personal computer, you cannot view such content on your personal computer.   To stream VOD content you must be logged into the service.  Upon the expiration of the VOD viewing time, you will no longer be able to view the VOD content without obtaining an additional license.  Unless otherwise authorized in this contract, you may not copy or move the VOD content from its originally stored location.
+
+c. Retained Rights Content. 
+
+Effective on payment of the required fees, we grant you, a personal, non-exclusive, non-transferable, limited right and license, subject to the terms of this contract, to view and privately display in your territory for personal, non-commercial purposes only, any Retained Rights Content you obtain via the service, only for and during your authorized use of the service.  
+
+Once a license to an item of retained rights content is obtained, you may download or stream a copy of such retained rights content to one or more Marketplace enabled devices, as set forth below and as authorized in the service: 
+
+(i) Personal Computers: You may download an item of retained rights content from the service on up to four (4) personal computers. 
+
+(ii) Xbox 360 consoles: Retained rights content may be downloaded to an initiating Xbox 360 console.  Retained rights content downloaded from the service to an initiating Xbox 360 console may be displayed and viewed on such initiating Xbox 360 console regardless of whether you are logged into the service.  You may not copy or move the retained rights content from its originally stored location, but you may download any previously obtained retained rights content to an additional Xbox 360 console (a “roaming Xbox console”) (including downloading to a removable hard drive on the initiating Xbox 360 console and transferring such hard drive to a roaming Xbox console), provided you are logged into the service and follow any further instructions we may provide to authenticate the roaming Xbox 360 console.  After verification that you have previously purchased the retained rights content via the service, you may download such content on the roaming Xbox console, provided you remain logged into the service.  You may not copy or move the retained rights content from a roaming Xbox console.  You can only be logged into the service via one Xbox 360 console at a time;
+
+(iii) Portable devices:  To access retained rights content downloaded to a personal computer from the service on your portable devices, you must create a sync relationship between your portable devices and such personal computer.  If you attempt to create a sync relationship between a portable device and a different personal computer, you will erase all retained rights content that is not licensed on the new personal computer from such portable device.  You are not authorized to copy retained rights content from a portable device to another portable device.
+
+Streaming.  To stream retained rights content to a Marketplace enabled device you must be logged into the service. Each item of retained rights content may be streamed to a personal computer or an Xbox 360 console, provided that it can only be streamed to one device at a time.   You may stream up to three (3) different items of content at any one time through the same account.
+
+Season Pass.  In some countries, we may offer Season Pass which includes currently available and future episodes of a TV program season.   If our agreements with the content owners cause us to deliver fewer episodes than planned at the time of your Season Pass purchase, we will give you the amount of Points corresponding to the missing TV episodes on a pro-rata basis.
+
+Zune Pass Subscription Content Usage Rules
+
+With a Zune Pass, you may stream or download music content on a subscription basis in your territory on up to three (3) personal computers and up to three (3) portable devices.  You can also stream content to your Xbox 360 console. You may only stream content to one personal computer, Xbox 360 console, or portable device at a time. Zune Pass is available for your personal and non-commercial use only.
+
+You must sign into the service at least once every 30 days to refresh the digital licenses that accompany each download of subscription content. If you have transferred subscription content to your portable device(s), you may need to connect the portable device(s) to your personal computer and log into the service to refresh your portable device(s) at least monthly or you may lose your access to such content.
+
+Subscription content can be played only as long as you continue to subscribe to Zune Pass.  Since the availability and content of Zune Pass is specific to each country, if you change your territory, this will end your access to subscription content available in that territory. If you choose to end your subscription, or it otherwise terminates for any reason, you will not be able to play or access any subscription content that you have downloaded. Any unredeemed song credits will also expire.
+
+If available in your territory, you may also receive song credits for up to ten (10) downloads of sound recordings from the service during each month of your Zune Pass subscription, at no additional cost to you.  These sound recordings can only be downloaded to certain Marketplace enabled devices.  Content purchased with these song credits may be used under the terms described in Section 10 and will not expire when your subscription ends.  These song credits are non-transferable.  Any unredeemed song credits will expire at the end of each monthly period and will not rollover to subsequent monthly periods.
+
+You cannot burn subscription content and/or playlists containing subscription content to CD. However, you can separately purchase music content from the service under the terms listed above in this Section. Any purchased content would not expire when your subscription ends.
+
+ 
+
+11.  Podcasts
+
+If available in your territory, you can subscribe to podcasts from the service.  There is no cost to you to subscribe to free podcasts.  When you subscribe, the most recent episodes will be downloaded to your collection.  You can adjust your podcast settings on the settings menu, including the number of episodes to be downloaded.   If you later decide to unsubscribe to a podcast, this will not remove any downloaded podcasts from your collection; you must manually delete them. 
+
+You can recommend a podcast using the “suggest a podcast” link in the podcast section of the service.  All podcasts you recommend for inclusion in the service must not infringe the rights of any third party and must otherwise fully comply with this Terms of Use and the Code of Conduct.  The decision whether to include a podcast in the service shall be made by us in our sole discretion, and we reserve the right to remove any podcast from the service at any time without notice for any reason or no reason, including any podcast that violates the Terms of Use or Code of Conduct or is incorrectly rated.  We do not review, approve or endorse the content of all podcasts that are available through the service, and we are not responsible or liable for any such podcasts.  You subscribe to and access such podcasts at your own risk.  If you recommend to us a podcast that you have created, you represent and warrant that the podcast fully complies with the Terms of Use and Code of Conduct and does not infringe upon or violate the rights of any third party.  By submitting a podcast to us, you are granting to us a free permission to reproduce, distribute, perform, display and otherwise use and allow the download of the podcast.
+
+ 
+
+12.  Zune Online Community.
+
+The Zune Social is an online community available through the service.  In the Zune online community, you can discover new music, share music with friends, and make new friends.  When you create a service account, a Zune Card and Zune user profile page will be created automatically for you.  During account creation, you can choose whether to display your music activity (what you’ve been listening to) on your Zune Card and profile page, in order to find other people in the online community with similar musical tastes.   You can customize your Zune Card by selecting an image and background, or you can upload your own pictures to use as a personal image or background.  Your use of the Zune Social and all pictures and other content uploaded to your profile page or Zune Card and all actions taken in connection with the Zune Social must comply with the Code of Conduct and the terms and conditions set forth in this contract.
+
+You are permitted to use our software to create a Zune Card gadget and to post your Zune Card gadget on other Web sites, provided that you fully comply with all the terms and conditions of this contract and the Code of Conduct.  You acknowledge and agree that the Zune Card and the Zune Card gadget contain the rights and property of Microsoft and its licensors, and that any creation, display, posting or other use of the Zune card or Zune card gadget that is not in accordance with these terms is a violation and infringement of such rights and property.   You may not post your Zune Card gadget, or any other content or web properties owned by us, on a site that (i) facilitates, enables, encourages or advocates illegal copying or unauthorized distribution of third party copyrighted material or any other illegal activity; (ii) contains explicit or obscene content or (ii) would otherwise violate these Terms of Use or Code of Conduct.  If you choose to post your Zune Card gadget on another Web site, note that any privacy settings that you make with respect to your Zune Card may operate differently on other sites.  Microsoft is not responsible for the privacy practices of any site outside the Microsoft family of Web sites, so you are encouraged to read the privacy statements of any sites that you visit or post content.  
+
+ 
+
+13.  Zune Forums
+
+Zune Forums is a site available at: http://answers.microsoft.com/zune where users can get help and support with Zune enabled devices, software and service. You can browse the Zune Forums without signing in, but to post a message or reply to one, you must sign into your Zune account.  You should consider anything that you post to a Zune Forum to be public.  All posts you make to Zune forums must comply with the Code of Conduct and the other terms of this contract, and any post that does not may be removed by Microsoft and result in, among other things, termination or suspension of your rights to use the service.  Although we have no obligation to screen, edit, monitor or remove any of content posted by users in the Zune Forums or elsewhere on or through the service, we reserve the right, and have absolute discretion, to monitor, remove, screen or edit any such content at any time and for any reason without notice.  You can report abuse or violations of the Code of Conduct in a Zune Forum by clicking on the “report” button and completing the web form.  We are not responsible or liable for any statements, representations or content provided by users in the Zune Forum or elsewhere in connection with the service, and your use of Zune Forums and the service is at your own risk.
+
+ 
+
+14. Your content.
+
+Except for content that we make available and license to you through the service, we don’t claim ownership of the content you provide or share on the service, nor do we control access to and use of the content that you and others make available on the service.
+
+You control who may access your content.  If you share content in public areas of the service or in shared areas available to others you’ve selected, then you agree that anyone you’ve shared content with may use that content.  When you give a person or the public the right to access your content on the service, you grant them free, nonexclusive permission to use, reproduce, distribute, display, transmit, and communicate to the public the content solely in connection with the service and other products and services made available by Microsoft.  If you don’t want others to have those rights, don’t share your content.
+
+You understand that we may need, and you hereby grant Microsoft the right, to use, modify, adapt, reproduce, distribute, and display content posted on the service to fulfill this agreement. 
+
+Please respect the rights of artists, inventors and creators.  Content such as music, photos and video may be protected by copyright.  People appearing in content may have a right to control the use of their image.  Sharing content that infringes others’ copyrights, other intellectual property rights, and privacy rights violates this contract. You represent and warrant that you have all the rights necessary for you to grant the rights in this section and that the use of the content within the services doesn’t violate any law.  We won’t pay you for your content. We reserve the right to deny content or remove it from the service at any time if we believe that it violates applicable law or this agreement.  We also reserve the right to deny content or remove it from the service at any time if it exceeds limits on storage or file size. 
+
+You’re responsible for backing up the data that you store on the service, including content you upload.  If the service is suspended or canceled, we may permanently delete your data from our servers and any data you have stored on the service may not be retrieved.  We have no obligation to return data to you after the service is suspended or canceled.  If data is stored with an expiration date, we may also delete the data as of that date. 
+
+ 
+
+15.    How You May Not Use the Service.
+
+You may not:
+
+·          engage in, facilitate, or further any unlawful conduct;
+
+·          use the service in a way that harms us or our affiliates, content providers, wireless carriers, resellers, distributors, and/or vendors (collectively, the "Microsoft parties"), or any customer of a Microsoft party;
+
+·          use any portion of the service or any device compatible with the service to illegally copy or distribute content that you do not have rights to copy or distribute or otherwise use the service in a manner that infringes upon or violates the rights of a third party;
+
+·          use any automated process or service to access and/or use the service (such as a BOT, a spider, periodic caching of information stored by Microsoft, or "meta-searching");
+
+·          use any unauthorized means to modify or reroute, or attempt to modify or reroute, the service;
+
+·          damage, disable, overburden, or impair the service (or the network(s) connected to the service) or interfere with anyone’s use and enjoyment of the service;
+
+·          resell or redistribute the service, or any part of the service;
+
+·          distribute, post, publish, upload, disseminate or discuss any materials that violate the Code of Conduct,  including defamatory, infringing, harassing, threatening, obscene, sexual or other unlawful content or materials;
+
+·          post links to websites or materials that could harm other users' computers or would allow others to inappropriately access software or Web sites or would violate the Terms of Use;
+
+·          upload or otherwise transmit any viruses, corrupted data or other harmful, disruptive or destructive files that may damage the operation of the service or other user’s device;
+
+·          create a Zune tag or motto that other users may be offended by, including words that sound like, stand for, hint at, abbreviate, or insinuate any of the following: profane words/phrases, sexually explicit language, sexual innuendo, hate speech (including but not limited to racial, ethnic, or religious slurs), illegal drugs/controlled substances, or illegal activities;
+
+·          harvest or otherwise collect information about others, including e-mail addresses, without their consent;
+
+·          post or otherwise distribute any advertising, solicitations or promotions;
+
+·          post or otherwise distribute untruthful or incorrect information that may mislead other users with respect to certain functions or features of the service;
+
+·          impersonate any person or entity or otherwise misrepresent your affiliation with a person or entity;
+
+·          publish, distribute or disseminate any topic, name, material, file or information that incites discrimination, hate or violence towards one person or a group because of their race, religion, nationality, transgender status, homosexual status or HIV/AIDS status, or that insults the victims of crimes against humanity by contesting the existence of those crimes; or
+
+·          use the forums for any commercial purpose without the express consent of Microsoft.
+
+·          You may only create an account for yourself as an individual. You may not create an account for your corporation or other business entity.
+
+ 
+
+16.    Privacy.
+
+You consent to the collection, use and disclosure of your personal information outlined in this section and in the Microsoft Online Privacy Statement available at http://go.microsoft.com/fwlink/?LinkId=81184and the Windows Phone Privacy Statement available at http://go.microsoft.com/fwlink/?LinkId=187032, as applicable.
+
+In order to provide you the service, we may collect certain information about service performance, your service use, and your use of your Windows Phone device or other Marketplace enabled device and Marketplace software. We may automatically upload this information from your personal computer, Xbox console or Marketplace enabled device. You may read about this information collection in more detail in the Microsoft Online Privacy Statement available at http://go.microsoft.com/fwlink/?LinkId=81184and the Windows Phone Privacy Statement available at http://go.microsoft.com/fwlink/?LinkId=187032, as applicable.
+
+We may access or disclose information about you, your account and/or the content of your communications, in order to: (1) comply with the law or legal process served on us; (2) enforce and investigate potential violations of this contract; including use of this service to participate in, or facilitate, activities that violate the law; (3) protect the rights, property, or safety of Microsoft, its employees, its customers or the public; or (4) as otherwise disclosed in our privacy statement.  You consent to the access and disclosures outlined in this section and in the Microsoft Online Privacy Statement available at http://go.microsoft.com/fwlink/?LinkId=81184and the Windows Phone Privacy Statement available at http://go.microsoft.com/fwlink/?LinkId=187032, as applicable.
+
+Personal information collected by Microsoft may be stored and processed in the United States or any other country or region in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities. You consent to any such transfer of information outside of your country or region. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union, European Economic Area and Switzerland.
+
+We may use technology or other means to protect the service, protect our customers, or stop you from breaching this contract. These means may interfere with your use of the service.  We reserve the right to enforce and/or verify compliance with any part of this contract, including but not limited to Microsoft's right to cooperate with any legal process relating to your use of the service and/or products, and/or a third party claim that your use of the service and/or products is unlawful and/or infringes such third party's rights.
+
+ 
+
+17. Software.
+
+If you receive other software from us as part of the service, your use of that software is governed in the following way: If a separate license agreement accompanies the software, those terms apply; if no license is provided to you, the terms of this contract apply.  We reserve all other rights to the software.
+
+Any use of software is licensed, not sold, and is governed by the terms of the license accompanying that software.  If the software has no separate license, then we grant you, subject to the terms and conditions set forth herein, a limited, personal, non-exclusive, revocable license to use the software only for and during the authorized use of the service or functions of the service to which the software relates, unless other rights or limitations are stated in this contract.  You may not copy, download, modify or create derivative works, publish, transmit, distribute, sell or attempt to sell or transfer, or otherwise use or exploit any software unless we or our suppliers have expressly allowed you to do so. You will not disassemble, decompile, or reverse engineer any software associated with the service, except and only to the extent that the law expressly permits this activity. We reserve all other rights to the software. We may automatically check your version of the software. We may automatically download upgrades to the software to your computer to update, enhance and further develop the service.  Some software upgrades may be required, and you may not be able to access the service, certain features or the service, or your subscription content, until you upgrade your software.  You authorize Microsoft to download and install upgrades, including updates to Windows Media digital rights management technology (WMDRM), to your computer over the Internet.  You may not be notified when software upgrades, including updates to WMDRM, associated with the Marketplace service or software, are downloaded and installed to your computer.
+
+Unless we notify you otherwise, your license to use the software will end on the date your service ends, and you must promptly uninstall and delete the software.  We may disable the software after the date the service terminates.
+
+The software is subject to United States export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the software. These laws include restrictions on destinations, end users and end use. For additional information, see www.microsoft.com/exporting.
+
+ If you use the software to access content that has been protected with Microsoft Digital Rights Management (DRM), the software may automatically request media usage rights from a rights server online and download and install DRM updates in order to let you play the content.  For more information, see http://go.microsoft.com/fwlink/?LinkId=123883.
+
+ 
+
+18. How we may change the contract.
+
+If we make material changes to this contract, then we’ll notify you. We may give this notice by email, by posting the updated contract on the service website or by any other reasonable means. We may require you accept an updated contract that includes such changes.  If you don’t agree to the changes, we’re not obligated to keep providing the service and you must cancel and stop using the service.  Otherwise, the new terms will apply to you.
+
+ 
+
+19. WE MAKE NO WARRANTY.
+
+We provide the service “as is,” “with all faults,” and “as available.” We don’t guarantee the accuracy or timeliness of information available from the service.  You acknowledge that computer and telecommunications systems are not fault-free and occasional periods of downtime occur.  We do not guarantee the service will be uninterrupted, timely, secure, or error-free or that data loss will not occur.  We and our affiliates, resellers, wireless carrier partners, distributors, and vendors give no express warranties, guarantees, or conditions. We exclude any implied warranties, including for merchantability, satisfactory quality, fitness for a particular purpose, workmanlike effort, and non-infringement.  You may have additional consumer rights under your local laws that this contract cannot change.
+
+ 
+
+20. LIABILITY LIMITATION.
+
+You can recover from Microsoft and our affiliates, resellers, wireless carrier partners, distributors, and vendors only direct damages up to an amount equal to your Zune Pass subscription fee for one month or the amount you have paid in the previous one month for purchases through the service, whichever is greater. You cannot recover any other damages, including consequential, lost profits, special, indirect, incidental, or punitive damages.
+
+ 
+
+These limitations and exclusions apply to anything related:
+
+The service,
+Loss of data,
+Content (including code) on third-party websites, third-party programs, or third-party conduct accessed via the service,
+Viruses or other disabling features that affect your access to or use of the service,
+Incompatibility between the service and other services, software, devices and hardware,
+Delays or failures you may have in starting or completing transmissions or transactions in connection with the service in an accurate or timely manner, and
+Claims for breach of contract; breach of warranty, guarantee or condition; strict liability; tort (including negligence or breach of statutory duty); or misrepresentation.
+ 
+
+They also apply even if:
+
+ 
+
+·         this remedy does not fully compensate you for any losses, or fails of its essential purpose; or
+
+·         we knew or should have known about the possibility of the damages.
+
+ 
+
+Some or all of these limitations or exclusions may not apply to you if your state, province, or country does not allow the exclusion or limitation of incidental, consequential, or other damages.
+
+ 
+
+21. Changes to the service and cancellation.
+
+We may change the service or eliminate features at any time for any reason.  If you do not agree to these changes, then you must cancel and stop using the service.  
+
+A particular service may be a pre-release version – a beta, for example – and may not work correctly or in the way a final version might work.  We may significantly change the final version or decide not to release a final version.
+
+We may cancel or suspend your service account if you are in breach of an obligation under this agreement and continue to breach such obligation after receipt of a notice to stop the breach within an appropriate timeframe.  This provision does not affect Microsoft’s additional legal rights to terminate the agreement immediately for good cause or to pursue other legal remedies.  This includes if you violate a material obligation of this agreement.  If we cancel your service account, your right to use the service stops right away.  If we cancel your credentials, your right to use the service stops right away. Our cancellation of the service or credentials won’t alter your obligation to pay all charges made to your billing account. 
+
+If we cancel a paid service in part or in its entirety without cause, we’ll endeavor to notify you in advance and refund to you on a pro-rata basis the amount of payments that you have made corresponding to the portion of your service remaining right before the cancellation. 
+
+ 
+
+22. General legal terms.
+
+Interpreting the contract.This is the entire contract between you and us regarding your use of the service.  It supersedes any prior contract or statements regarding your use of the service.  If you have confidentiality obligations related to the service – for example, you may have been a beta tester – those obligations remain in force. Separate or additional terms may apply when you use or pay for other Microsoft services.  The section titles don’t limit the terms of this contract. You may have additional consumer rights under your local laws that this contract cannot change.
+
+Assignment and transfer.We may assign, transfer, or otherwise dispose our rights and obligations under this contract, in whole or in part, at any time without notice. You may not assign this contract or transfer any rights to access or otherwise use the service.
+
+No third-party beneficiaries.This agreement is for your and our benefit.  Certain sections of this contract are for the benefit of Microsoft’s affiliates. Furthermore, the owners of content are intended beneficiaries of this contract. As a result, Microsoft, Microsoft’s affiliates and content owners are entitled to enforce this contract.  Except for Microsoft’s affiliates and content owners, this contract does not create any other beneficiaries or enforceable rights other than between you and Microsoft.
+
+Enforcement of the Code of Conduct and other user content or conduct rules set forth in this contract is solely at our discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances.  In addition, these rules do not create any private right of action on the part of you or any third party or any reasonable expectation that the service will not contain any content that is prohibited by such rules.
+
+Notices.You may notify us as stated in customer support for the service. This contract is in electronic form.  We may send you, in electronic form, information about the service, additional information, and information the law requires us to provide.  We may provide required information to you by e-mail at the address you specified when you signed up for the service or by access to a Microsoft website that we identify.  Notices e-mailed to you will be deemed given and received when the e-mail is sent.  If you don’t consent to receive any notices electronically, you must stop using the service.
+
+Contracting party, choice of law and location for resolving disputes. 
+
+a.     If you live in Europe,you’re contracting with Microsoft Luxembourg S.à.r.l., 20 Rue Eugene Ruppert, Immeuble Laccolith, 1st Floor, L-2543 Luxembourg, and the laws of Luxembourg govern the interpretation of this contract and apply to claims for breach of it, regardless of conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the country to which we direct your service. With respect to jurisdiction, you may choose the responsible court in Luxembourg or in the country to which we direct your service for all disputes arising out of or relating to this contract.
+
+b.     If you live in North or South America,you’re contracting with Microsoft Corp., One Microsoft Way, Redmond, WA 98052, USA, and Washington state law governs the interpretation of this contract and applies to claims for breach of it, regardless of conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of your state of residence in the United States, or, if you live outside the United States, the laws of the country to which we direct your service. You and we irrevocably consent to the exclusive jurisdiction and venue of the state or federal courts in King County, Washington, USA, for all disputes arising out of or relating to this contract.
+
+c.     If you live in Japan, you’re contracting with Microsoft Co. Ltd (MSKK), Odakyu Southern Tower, 2-2-1 Yoyogi, Shibuya-ku, Tokyo 151-8583.  The laws of Japan govern this contract and any matters arising out of or relating to this contract. You and we irrevocably agree that exclusive original jurisdiction and venue will lie in the Tokyo District Court.
+
+d.     If you live in Australia, Hong Kong, New Zealand or Singapore, you’re contracting with Microsoft Operations, Pte Ltd, 1 Marina Boulevard, #22-01, Singapore 01898, and the laws of Singapore govern this contract. You and we irrevocably agree to the exclusive jurisdiction and venue of the Singapore courts for all disputes arising out of or relating to this contract, regardless of conflict of laws principles.
+
+e.     If you live in India, you’re contracting with Microsoft Regional Sales Corp., a corporation organized under the laws of the State of Nevada, USA, with a branch in Singapore, having its principal place of business at 438B Alexandra Road, #04-09/12, Block B, Alexandra Technopark, Singapore, 119968, and Washington state law governs this contract, regardless of conflict of laws principles.
+
+ 
+
+23.  NOTICES
+
+Notices and procedure for making claims of copyright infringement
+
+Notifications of claimed copyright infringement should be sent to Microsoft's designated agent. INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL RECEIVE NO RESPONSE. For details and contact information, see Notice and Procedure for Making Claims of Copyright Infringement at http://www.microsoft.com/inf o /cpyrtInfrg.htm.
+
+Copyright and trademark notices
+
+All contents of the service are Copyright © 2010 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, Washington 98052-6399 U.S.A.  All rights reserved. We or our suppliers own the title, copyright, and other intellectual property rights in the service or content. Microsoft, Windows, Windows Live, Windows logo, MSN, MSN logo (butterfly), Bing and other Microsoft products and services may also be either trademarks or registered trademarks of Microsoft in the United States and/or other countries. The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted herein are reserved. Certain software used in certain Microsoft website servers is based in part on the work of the Independent JPEG Group. Copyright © 1991-1996 Thomas G. Lane. All rights reserved. "gnuplot" software used in certain Microsoft website servers is copyright © 1986-1993 Thomas Williams, Colin Kelley. All rights reserved.
+
+Parental controls
+
+We offer parental control protections that help you limit access to material that is harmful to minors.  To learn more about such protections, visit http://www.staysafe.org or similar websites that provide information on parental control protections.
+
+Financial notice
+
+Microsoft is not a broker/dealer or registered investment advisor under U.S. federal securities law or securities laws of other jurisdictions and does not advise individuals as to the advisability of investing in, purchasing, or selling securities or other financial products or services. Nothing contained in the service constitutes an offer or solicitation to buy or sell any security. Neither Microsoft nor its licensors of stock quotes or index data endorse or recommend any particular financial products or services. Nothing contained in the service is intended to constitute professional advice, including but not limited to, investment or tax advice.
+
+Respect Copyright.
+
+Please respect the rights of artists and creators. Content such as music, photos and video may be protected by copyright. People appearing in content may have a right to control use of their image. You may not share other people’s content unless you own the rights or have permission from the owner and you understand that sharing content that violates others’ copyrights and other intellectual property rights violates this contract. You represent and warrant that you have all the rights necessary for you to grant the rights in this section and that the use and publication of the content does not breach any law. We will not pay you for your content. We may refuse to publish your content and may remove your content from the service at any time for any reason, including for breach of this contract or breach of a Code of Conduct.
+
+Notice about the H.264/AVC Visual Standard and the VC-1 Video Standard
+
+The software may include H.264/MPEG-4 AVC and/or VC-1 decoding technology. MPEG LA, L.L.C. requires this notice:
+THIS PRODUCT IS LICENSED UNDER THE AVC AND THE VC-1 PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (A) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) AND/OR (B) DECODE AVC AND VC-1 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NONE OF THE LICENSES EXTEND TO ANY OTHER PRODUCT REGARDLESS OF WHETHER SUCH PRODUCT IS INCLUDED WITH THIS SOFTWARE IN A SINGLE ARTICLE.  NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE http://www.mpegla.com
+
+For clarification purposes only, this notice does not limit or inhibit the use of the software provided under this agreement for normal business uses that are personal to that business which do not include (i) redistribution of the software to third parties, or (ii) creation of content with the VIDEO STANDARDS compliant technologies for distribution to third parties.
+
+ 
+
+Support
+
+Customer support isn’t offered for the service, unless the materials we publish in connection with a particular service specify that it is.
+
+ 
+
+Standard Application License Terms
+
+STANDARD APPLICATION LICENSE TERMS (UPDATED MAY 2010)
+
+WINDOWS PHONE MARKETPLACE
+
+These license terms are an agreement between Application Provider and you. Please read them. They apply to the software application you download from the Windows Phone Marketplace (“Application”), unless the Application comes with separate terms (“Third Party License”), in which case the terms of the Third Party License will apply. This agreement also applies to any updates andsupplements for the Application, unless other terms accompany those items. If so, those terms apply.
+
+BY DOWNLOADING OR USING THE APPLICATION, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT DOWNLOAD OR USE THE APPLICATION.
+
+Except for the foregoing, if the Application enables access to any Internet-based services, your use of those services will be subject to the separately-provided terms of use.
+
+In this agreement “Application Provider” means the entity licensing the Application to you, as identified in the Windows Phone Marketplace.  If the Application is provided by Microsoft, then the Application Provider is Microsoft (or based on where you live, one of its affiliates).
+
+If you comply with these license terms, you have the rights below.
+
+INSTALLATION AND USE RIGHTS.
+
+Installation and Use.You may install and use one copy of the Application on up to five (5) mobile devices you personally own or control and which are affiliated with the Windows Live ID associated with your Windows Phone Marketplace account.  You may not install or use a copy of the Application on a device you do not own or control. 
+
+INTERNET-BASED SERVICES.Application Provider may provide Internet-based services with the Application.  In addition to the following, your use of such services is subject to the terms provided to you by the Application Provider and/or your wireless carrier.
+
+Consent for Internet-Based or Wireless Services.The Application may connect to computer systems over an Internet-based wireless network. In some cases, you will not receive a separate notice when they connect. Using the application operates as your consent to the transmission of standard device information (including but not limited to technical information about your device, system and application software, and peripherals) for internet-based or wireless services.
+
+Misuse of Internet-based Services. You may not use any Internet-based service in any way that could harm it or impair anyone else’s use of it or the wireless network. You may not use the service to try to gain unauthorized access to any service, data, account or network by any means. 
+
+Scope of License.The Application is licensed, not sold. This agreement only gives you some rights to use the Application. Application Provider reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the Application only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the Application that only allow you to use it in certain ways. You may not
+
+work around any technical limitations in the Application;
+
+reverse engineer, decompile or disassemble the Application, except and only to the extent that applicable law expressly permits, despite this limitation;
+
+make more copies of the Application than specified in this agreement or allowed by applicable law, despite this limitation;
+
+publish or otherwise make the Application available for others to copy;
+
+rent, lease or lend the Application; or
+
+transfer the Application or this agreement to any third party.
+
+DOCUMENTATION.If documentation is provided with the Application, you may copy and use the documentation for your internal, reference purposes.
+
+Export Restrictions.The Application is subject to United States export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the Application. These laws include restrictions on destinations, end users and end use. For additional information, see www.microsoft.com/exporting.
+
+SUPPORT SERVICES.The Application is provided “as is.”  Contact the Application Provider to determine if any support services are available.  Microsoft (unless Microsoft is the Application Provider), your phone manufacturer, and your wireless carrier are not responsible for providing support services for the Application.  
+
+Entire Agreement.This agreement, and the terms for supplements and updates are the entire agreement for the Application.
+
+Applicable Law. 
+
+United States. If you acquired the Application in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+
+Outside the United States. If you acquired the Application in any other country, the laws of that country apply.
+
+Legal Effect.This agreement describes certain legal rights. You may have other rights under the laws of your country. You may also have rights with respect to the Application Provider from whom you acquired the Application. This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+
+Disclaimer of Warranty. THE APPLICATION IS LICENSED "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE." YOU BEAR THE RISK OF USING IT.  THE APPLICATION PROVIDER, ON BEHALF OF ITSELF, MICROSOFT, WIRELESS CARRIERS OVER WHOSE NETWORK THE APPLICATION IS DISTRIBUTED, AND EACH OF OUR RESPECTIVE AFFILIATES, AND SUPPLIERS (“DISTRIBUTORS”), GIVES NO EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS UNDER OR IN RELATION TO THE APPLICATION.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, DISTRIBUTORS EXCLUDE ANY IMPLIED WARRANTIES OR CONDITIONS, INCLUDING THOSE OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 
+
+Limitation on and Exclusion of Remedies and Damages.
+
+TO THE EXTENT NOT PROHIBITED BY LAW, YOU CAN RECOVER FROM THE APPLICATION PROVIDER ONLY DIRECT DAMAGES UP TO THE AMOUNT YOU PAID FOR THE APPLICATION. YOU AGREE NOT TO SEEK TO RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES FROM ANY DISTRIBUTOR.
+
+This limitation applies to
+
+•              anything related to the Application, services made available through the Application, or content (including code) on third party Internet sites; and
+
+•              claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+
+It also applies even if
+
+•              repair, replacement or a refund for the Application does not fully compensate you for any losses; or
+
+•              Distributor knew or should have known about the possibility of the damages.
